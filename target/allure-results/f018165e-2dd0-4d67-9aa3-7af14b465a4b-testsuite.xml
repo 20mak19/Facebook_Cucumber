@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1576906439310" stop="1576906483865" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify signup button</name>
+    <title>Verify signup button</title>
+    <test-cases>
+        <test-case start="1576906449337" stop="1576906449340" status="passed">
+            <name>Given I am on home Page</name>
+            <title>Given I am on home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906460593" stop="1576906460594" status="passed">
+            <name>When I enter makbule into firstname text field on the messenger page</name>
+            <title>When I enter makbule into firstname text field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906472684" stop="1576906472685" status="passed">
+            <name>And I enter angun into lastname text field on the messenger page</name>
+            <title>And I enter angun into lastname text field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906483739" stop="1576906483739" status="passed">
+            <name>Then I verify that signup button is disable at homepage</name>
+            <title>Then I verify that signup button is disable at homepage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify signup button"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

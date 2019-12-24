@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1576906487727" stop="1576906562527" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Signup form should not accept any invalid email address | plainaddress |</name>
+    <title>Signup form should not accept any invalid email address | plainaddress |</title>
+    <test-cases>
+        <test-case start="1576906497734" stop="1576906497734" status="passed">
+            <name>Given I am on home Page</name>
+            <title>Given I am on home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906507868" stop="1576906507869" status="passed">
+            <name>When I enter Test into firstname text fields on home screen</name>
+            <title>When I enter Test into firstname text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906517945" stop="1576906517945" status="passed">
+            <name>And I enter Test into lastname text fields on home screen</name>
+            <title>And I enter Test into lastname text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906529062" stop="1576906529063" status="passed">
+            <name>And I enter plainaddress into Mobilenumber text fields on home screen</name>
+            <title>And I enter plainaddress into Mobilenumber text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906539151" stop="1576906539151" status="passed">
+            <name>And I click on password text field on home screen</name>
+            <title>And I click on password text field on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906551342" stop="1576906551342" status="passed">
+            <name>And I click on email text field on home screen</name>
+            <title>And I click on email text field on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906562405" stop="1576906562405" status="passed">
+            <name>Then I verify Error Message for invalid email on homepage</name>
+            <title>Then I verify Error Message for invalid email on homepage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Signup form should not accept any invalid email address | plainaddress |"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

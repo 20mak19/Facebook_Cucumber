@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1576906565453" stop="1576906640320" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Signup form should not accept any invalid email address | #@%^%#$@#$@#.com |</name>
+    <title>Signup form should not accept any invalid email address | #@%^%#$@#$@#.com |</title>
+    <test-cases>
+        <test-case start="1576906575460" stop="1576906575460" status="passed">
+            <name>Given I am on home Page</name>
+            <title>Given I am on home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906585579" stop="1576906585580" status="passed">
+            <name>When I enter Test into firstname text fields on home screen</name>
+            <title>When I enter Test into firstname text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906595656" stop="1576906595656" status="passed">
+            <name>And I enter Test into lastname text fields on home screen</name>
+            <title>And I enter Test into lastname text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906606811" stop="1576906606811" status="passed">
+            <name>And I enter #@%^%#$@#$@#.com into Mobilenumber text fields on home screen</name>
+            <title>And I enter #@%^%#$@#$@#.com into Mobilenumber text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906616892" stop="1576906616892" status="passed">
+            <name>And I click on password text field on home screen</name>
+            <title>And I click on password text field on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906629134" stop="1576906629134" status="passed">
+            <name>And I click on email text field on home screen</name>
+            <title>And I click on email text field on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1576906640194" stop="1576906640194" status="passed">
+            <name>Then I verify Error Message for invalid email on homepage</name>
+            <title>Then I verify Error Message for invalid email on homepage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Makbules-MacBook-Pro.local"/>
+                <label name="thread" value="36950@Makbules-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Signup form should not accept any invalid email address | #@%^%#$@#$@#.com |"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
